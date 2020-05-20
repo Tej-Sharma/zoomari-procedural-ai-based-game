@@ -1,0 +1,19 @@
+
+buttonExitPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonExit
+  rotate: false
+  xy: 1, 1
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+buttonExitHighlight
+  rotate: false
+  xy: 35, 1
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
